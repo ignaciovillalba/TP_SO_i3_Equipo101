@@ -1,0 +1,14 @@
+A-¿Como queda el master despues de estos cambios?
+
+El master queda con todos los cambios realizados en las ramas(branch).
+
+B-¿Beta pudo ver todos los cambios?
+
+Pude ver todos los cambios si entraba a los branch.
+
+C-¿Que debio hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+
+629  git checkout main
+630  git add .
+631  git status
+632  git push
