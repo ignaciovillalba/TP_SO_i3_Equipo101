@@ -33,4 +33,16 @@ F- Que debio hacer (todos los comandos) el el pnto 7 para hacer lo pedido?
 32  git commit -m "Punto 7 GAMMA terminado"
 33  git push origin Villalba
 
+G-¿que debió hacer (todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+  108  git pull
+  109  git checkout Villalba
+  110  ifconfig>>Beta.txt
+  111  echo "Nahuel Carbajal - 15.30 hs " >>Beta.txt
+  112  git add .
+  113  git commit -m "Alfa commit parte 8 realizada"
+  114  git push origin Villalba
+
+
+
 
